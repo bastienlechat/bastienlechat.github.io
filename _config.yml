@@ -74,7 +74,7 @@ author:
       url: "https://github.com/bastienlechat"
     - label: "ResarchGate"
       icon: "fab fa-fw fa-researchgate"
-      url: "https://instagram.com/"
+      url: "https://www.researchgate.net/profile/Bastien-Lechat"
 
 footer:
   links:
@@ -86,7 +86,7 @@ footer:
       url: "https://github.com/bastienlechat"
     - label: "ResarchGate"
       icon: "fab fa-fw fa-researchgate"
-      url: "https://instagram.com/"
+      url: "https://www.researchgate.net/profile/Bastien-Lechat"
 
 defaults:
   # _posts
