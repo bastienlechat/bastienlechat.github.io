@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Bastien Lechat"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Research Associated at the Adelaide Institute for Sleep Health"
+  bio    : "Research Associate at the Adelaide Institute for Sleep Health"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
