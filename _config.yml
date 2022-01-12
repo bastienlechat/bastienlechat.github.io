@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 twitter_username: username
 github_username: bastienlechat
-minimal_mistakes_skin: "dirt" #"default" # "air", "aqua", "contrast", "dark", , "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", , "neon", "mint", "plum", "sunrise"
 
 search: true
 
@@ -65,27 +65,27 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://bastienlechat.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/bastien_lechat"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      url: "https://github.com/bastienlechat"
+    - label: "ResarchGate"
+      icon: "fab fa-fw fa-researchgate"
       url: "https://instagram.com/"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/bastien_lechat"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      url: "https://github.com/bastienlechat"
+    - label: "ResarchGate"
+      icon: "fab fa-fw fa-researchgate"
       url: "https://instagram.com/"
 
 defaults:
