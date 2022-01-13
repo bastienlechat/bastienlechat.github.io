@@ -6,8 +6,6 @@ title: " "
 
 # About me
 
-I am originally from France 
-
 I am a Research Associate at the Adelaide Institute for Sleep Health under the 
 supervision and mentoring of [Danny Eckert](https://www.flinders.edu.au/people/danny.eckert).
 My research program aims to improve diagnostic and management of sleep disorders
