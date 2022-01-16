@@ -1,8 +1,10 @@
 main:
+  - title: "Research"
+      url: /research/
+  - title: "Whiteboard"
+      url: /whiteboard/
   - title: "Publications"
     url: /publications
-  - title: "Research"
-    url: /research
   - title: "Talks"
     url: /talks
 
