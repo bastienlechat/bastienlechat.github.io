@@ -2,6 +2,8 @@
 permalink: /
 author_profile: true
 title: " "
+layout: single
+classes: wide
 ---
 
 # About me

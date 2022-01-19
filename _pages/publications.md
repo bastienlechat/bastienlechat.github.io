@@ -1,13 +1,16 @@
 ---
 permalink: /publications
 author_profile: true
-title: "Publications"
+title: " "
+layout: single
+classes: wide
 ---
+# Publications
 
 A full list of my publications can be found on 
 <a href="https://scholar.google.com.au/citations?user=-Q__PYIAAAAJ&hl=en&oi=ao" target="_blank"><font color="brown">Google Scholar</font></a>.
 
-##Selected publications
+## Selected publications
 
 * Lechat B, Naik G, Reynolds A, et al. Multi-night Prevalence, Variability, and Diagnostic Misclassification of 
 Obstructive Sleep Apnea. Am J Respir Crit Care Med 2021 doi: [10.1164/rccm.202107-1761OC](https://doi.org/10.1164/rccm.202107-1761OC)
@@ -25,5 +28,4 @@ Frontiers in Neuroscience 2021;15 doi: [10.3389/fnins.2021.751730](https://doi.o
   using deep learning. Sleep 2020;43(10) doi: [10.1093/sleep/zsaa077](https://doi.org/10.1093/sleep/zsaa077)
     * Editors choice paper
     * Associated software available [here](https://github.com/Adelaide-Institute-for-Sleep-Health/K-complex_algorithm)
-
 
